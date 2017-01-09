@@ -1,0 +1,2 @@
+
+Customdatacomponent Plugin works!
