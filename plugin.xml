@@ -6,7 +6,7 @@
             <pluginName>Customdatacomponent</pluginName>
 
             <!-- a short description -->
-			<pluginDescription><![CDATA[]]></pluginDescription>
+			<pluginDescription><![CDATA[Custom data component.]]></pluginDescription>
 
             <!-- meta data -->
             <pluginVersion>1.0</pluginVersion>
@@ -32,6 +32,8 @@
 			<!-- js files with path relative to plugin-directory -->
 			<pluginJsPaths>
                 <path>/plugins/Customdatacomponent/static/js/startup.js</path>
+				<path>/plugins/Customdatacomponent/static/js/data-components/data/customcomponent.js</path>
+				<path>/plugins/Customdatacomponent/static/js/data-components/tags/customcomponent.js</path>
 			</pluginJsPaths>
 
 			<!-- css files with path relative to plugin-directory -->
